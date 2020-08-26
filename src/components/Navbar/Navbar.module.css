@@ -1,0 +1,29 @@
+.nav {
+    grid-area: n;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+.empty {
+    height: 50px;
+}
+
+.nameFriends {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.friends {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

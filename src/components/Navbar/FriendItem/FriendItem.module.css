@@ -1,0 +1,14 @@
+.friend {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.avatar {
+    width: 50px;
+}
+
+.friend a {
+    color: white;
+    text-decoration: none;
+}

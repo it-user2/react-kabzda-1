@@ -1,0 +1,23 @@
+.dialogItem {
+    color: white;
+
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.dialogItem .active {
+    color: gold;
+}
+
+.dialogItem .avatar {
+    width: 50px;
+}
+
+.dialogItem .dialog {
+    padding: 10px;
+}
+
+.dialogItem .dialog a {
+    color: blue;
+    text-decoration: none;
+}

@@ -1,0 +1,34 @@
+.descriptionBlock {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid blue;
+    border-radius: 15px;
+}
+
+.avatar {
+}
+
+.avatarImage {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.avatarBlock {
+    display: flex;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 15px;
+    color: crimson;
+    width: 200px;
+}
+
+.text {
+    font-style: italic;
+}
+
+.lookForAJob {
+    width: 30px;
+    height: 30px;
+}
