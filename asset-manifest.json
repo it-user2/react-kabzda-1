@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-kabzda-1/static/css/main.0e553eff.chunk.css",
+    "main.js": "/react-kabzda-1/static/js/main.8e546172.chunk.js",
+    "main.js.map": "/react-kabzda-1/static/js/main.8e546172.chunk.js.map",
+    "runtime-main.js": "/react-kabzda-1/static/js/runtime-main.d55f968c.js",
+    "runtime-main.js.map": "/react-kabzda-1/static/js/runtime-main.d55f968c.js.map",
+    "static/js/2.ba52be2f.chunk.js": "/react-kabzda-1/static/js/2.ba52be2f.chunk.js",
+    "static/js/2.ba52be2f.chunk.js.map": "/react-kabzda-1/static/js/2.ba52be2f.chunk.js.map",
+    "static/css/3.35f768e0.chunk.css": "/react-kabzda-1/static/css/3.35f768e0.chunk.css",
+    "static/js/3.a27330a6.chunk.js": "/react-kabzda-1/static/js/3.a27330a6.chunk.js",
+    "static/js/3.a27330a6.chunk.js.map": "/react-kabzda-1/static/js/3.a27330a6.chunk.js.map",
+    "static/css/4.c7cb900c.chunk.css": "/react-kabzda-1/static/css/4.c7cb900c.chunk.css",
+    "static/js/4.52b114b8.chunk.js": "/react-kabzda-1/static/js/4.52b114b8.chunk.js",
+    "static/js/4.52b114b8.chunk.js.map": "/react-kabzda-1/static/js/4.52b114b8.chunk.js.map",
+    "index.html": "/react-kabzda-1/index.html",
+    "precache-manifest.be9408882acb15065ead12db68e95e62.js": "/react-kabzda-1/precache-manifest.be9408882acb15065ead12db68e95e62.js",
+    "service-worker.js": "/react-kabzda-1/service-worker.js",
+    "static/css/3.35f768e0.chunk.css.map": "/react-kabzda-1/static/css/3.35f768e0.chunk.css.map",
+    "static/css/4.c7cb900c.chunk.css.map": "/react-kabzda-1/static/css/4.c7cb900c.chunk.css.map",
+    "static/css/main.0e553eff.chunk.css.map": "/react-kabzda-1/static/css/main.0e553eff.chunk.css.map",
+    "static/js/2.ba52be2f.chunk.js.LICENSE.txt": "/react-kabzda-1/static/js/2.ba52be2f.chunk.js.LICENSE.txt",
+    "static/media/lookforajob.png": "/react-kabzda-1/static/media/lookforajob.3f32cfe8.png",
+    "static/media/looknotforajob.png": "/react-kabzda-1/static/media/looknotforajob.bf9ea681.png",
+    "static/media/preloader.gif": "/react-kabzda-1/static/media/preloader.c09926ed.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d55f968c.js",
+    "static/js/2.ba52be2f.chunk.js",
+    "static/css/main.0e553eff.chunk.css",
+    "static/js/main.8e546172.chunk.js"
+  ]
+}
