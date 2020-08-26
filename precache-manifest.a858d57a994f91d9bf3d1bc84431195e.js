@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef7f04348ac68e96c767f1f72a8c2b0c",
+    "revision": "109ab6db1dff86cc61b65ff558e2aecb",
     "url": "/react-kabzda-1/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-kabzda-1/static/css/4.c7cb900c.chunk.css"
   },
   {
-    "revision": "5fe5e8637afa75e8d325",
+    "revision": "f680978d2ca9b925e07c",
     "url": "/react-kabzda-1/static/css/main.0e553eff.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-kabzda-1/static/js/4.a822e584.chunk.js"
   },
   {
-    "revision": "5fe5e8637afa75e8d325",
-    "url": "/react-kabzda-1/static/js/main.86e89e37.chunk.js"
+    "revision": "f680978d2ca9b925e07c",
+    "url": "/react-kabzda-1/static/js/main.87a12160.chunk.js"
   },
   {
     "revision": "c405149da8dd90cdd795",
